@@ -61,8 +61,8 @@ const ContactPage = () => {
     {
       icon: <Mail className="w-6 h-6 text-[#0032A0]" />,
       title: 'E-posta',
-      content: 'murat@geleceksigorta.com',
-      link: 'mailto:murat@geleceksigorta.com'
+      content: 'murat@geleceksigorta.com.tr',
+      link: 'mailto:murat@geleceksigorta.com.tr'
     },
     {
       icon: <MapPin className="w-6 h-6 text-[#0032A0]" />,
@@ -343,7 +343,7 @@ const ContactPage = () => {
               Hemen Ara
             </a>
             <a
-              href="mailto:murat@geleceksigorta.com"
+              href="mailto:murat@geleceksigorta.com.tr"
               className="border-2 border-white text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-white hover:text-blue-900 transition-colors inline-flex items-center justify-center"
             >
               <Mail className="mr-2 w-5 h-5" />

@@ -25,9 +25,9 @@ const Navbar = () => {
               <Phone size={16} />
               <span>+90 312 442 00 82</span>
             </a>
-            <a href="mailto:murat@geleceksigorta.com" className="flex items-center space-x-2 hover:text-blue-200 transition-colors">
+            <a href="mailto:murat@geleceksigorta.com.tr" className="flex items-center space-x-2 hover:text-blue-200 transition-colors">
               <Mail size={16} />
-              <span>murat@geleceksigorta.com</span>
+              <span>murat@geleceksigorta.com.tr</span>
             </a>
           </div>
           <div className="hidden md:block">

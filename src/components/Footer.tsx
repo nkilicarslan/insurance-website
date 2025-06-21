@@ -106,7 +106,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={20} className="text-[#0032A0]" />
-                <span className="text-gray-300">murat@geleceksigorta.com</span>
+                <span className="text-gray-300">murat@geleceksigorta.com.tr</span>
               </div>
               <div className="flex items-start space-x-3">
                 <Clock size={20} className="text-[#0032A0] mt-0.5" />
